@@ -4,7 +4,6 @@ var peran = '';
 
 
 
-
 if(peran == "")
 {
 	alert("Halo"+nama+" , Pilih peranmu untuk memulai game!");
