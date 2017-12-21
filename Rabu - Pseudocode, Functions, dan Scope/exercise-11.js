@@ -4,7 +4,7 @@ var playerHealth = tahunLahir * Math.random();
 var monsterHealth = tahunLahir * Math.random();
 var kodeMonster = Math.floor(Math.pow(100, Math.random()));
 var nama = '';
-
+var peran = 'penyihir';
 
 if(nama == '')
 {
